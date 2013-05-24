@@ -1,0 +1,27 @@
+h1{
+	font-family: 'Roboto Slab';
+}
+body{
+	font-family: 'Ubuntu';
+	/*background-image: url('../img/binding_dark.png');*/
+}
+.wrapper{
+	background-color: #FFFFFF;
+	max-width: 800px;
+	margin-top: 80px;
+	margin-bottom: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px;
+	border: 1px solid rgb(238, 238, 238)
+}
+.alef{
+	font-family: 'Alef', sans-serif;
+}
+.no-space{
+	line-height: 0px;
+}
